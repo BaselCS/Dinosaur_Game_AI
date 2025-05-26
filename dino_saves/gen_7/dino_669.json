@@ -1,0 +1,131 @@
+{
+  "genome_id": 669,
+  "fitness": 2105.2179999999294,
+  "score": 217,
+  "connections": [
+    {
+      "in": -1,
+      "out": 1,
+      "weight": -0.39339124647719603,
+      "enabled": true
+    },
+    {
+      "in": -2,
+      "out": 0,
+      "weight": 0.3721929898723763,
+      "enabled": true
+    },
+    {
+      "in": -2,
+      "out": 1,
+      "weight": -2.2538352876450776,
+      "enabled": true
+    },
+    {
+      "in": -3,
+      "out": 0,
+      "weight": 0.4910589811863417,
+      "enabled": true
+    },
+    {
+      "in": -3,
+      "out": 1,
+      "weight": -1.0008997157184338,
+      "enabled": true
+    },
+    {
+      "in": -4,
+      "out": 0,
+      "weight": -1.640103410367175,
+      "enabled": true
+    },
+    {
+      "in": -4,
+      "out": 1,
+      "weight": -1.6069833331395325,
+      "enabled": true
+    },
+    {
+      "in": -5,
+      "out": 0,
+      "weight": -0.21032534110499385,
+      "enabled": true
+    },
+    {
+      "in": -6,
+      "out": 0,
+      "weight": -0.8430095801478777,
+      "enabled": true
+    },
+    {
+      "in": -6,
+      "out": 1,
+      "weight": -1.6172035120969377,
+      "enabled": true
+    },
+    {
+      "in": -7,
+      "out": 0,
+      "weight": -2.2244447995176797,
+      "enabled": true
+    },
+    {
+      "in": -7,
+      "out": 1,
+      "weight": 0.32542945027088593,
+      "enabled": true
+    },
+    {
+      "in": -8,
+      "out": 0,
+      "weight": 0.036064187707612105,
+      "enabled": true
+    },
+    {
+      "in": -8,
+      "out": 1,
+      "weight": -1.733254479091353,
+      "enabled": false
+    },
+    {
+      "in": -9,
+      "out": 0,
+      "weight": 2.873735744562446,
+      "enabled": true
+    },
+    {
+      "in": -9,
+      "out": 1,
+      "weight": 0.6963479493887662,
+      "enabled": true
+    },
+    {
+      "in": -10,
+      "out": 0,
+      "weight": -0.03048526368643334,
+      "enabled": true
+    },
+    {
+      "in": -10,
+      "out": 1,
+      "weight": -1.5215862710706967,
+      "enabled": true
+    }
+  ],
+  "nodes": [
+    {
+      "id": 0,
+      "bias": 1.3707996843986343,
+      "activation": "tanh",
+      "aggregation": "sum",
+      "response": 1.0
+    },
+    {
+      "id": 1,
+      "bias": 0.608494073972117,
+      "activation": "tanh",
+      "aggregation": "sum",
+      "response": 1.0
+    }
+  ]
+}

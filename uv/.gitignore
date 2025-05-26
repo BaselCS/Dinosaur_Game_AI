@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+old_saves/
+dino_saves/
+*.log
+*.json
+# Virtual environments
+.venv
