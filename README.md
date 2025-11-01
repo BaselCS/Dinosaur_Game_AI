@@ -1,3 +1,5 @@
+<img width="1916" height="544" alt="image" src="https://github.com/user-attachments/assets/e5fd90d4-ad85-4368-a36d-21218c6f742f" />
+
 # مقدمة
 في حال كنت تستخدم مدير الحزم `uv` استخدم الأمر التالي لتشغيل اللعبة 
 `uv run`
@@ -63,4 +65,5 @@ plot_best_fitness_per_generation(os.path.join(OLD_DIR, dic))
 
 # أساس المشروع 
 أساس المشروع مأخوذ من [UPocek](https://github.com/UPocek/Dinosaur_Game_AI/tree/main)
+
 
